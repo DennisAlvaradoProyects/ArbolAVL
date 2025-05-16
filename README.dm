@@ -43,3 +43,7 @@ Si luego escribes `i 5`, podría verse así:
 Si el árbol se "desbalancea" al agregar o quitar cosas, verás cómo se reordena automáticamente. Prueba a insertar números en orden (como 10, 25, 32. etc) para ver cómo el AVL se balancea con las rotaciones.
 
 Espero ayude a entender cómo funciona un arbol AVL
+
+
+Enlace a video de Youtube:
+https://youtu.be/OZEdEbpBWRM
